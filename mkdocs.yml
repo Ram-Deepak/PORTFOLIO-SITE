@@ -31,6 +31,10 @@ extra:
       link: mailto:<ramdeepak33@gmail.com>
       name: Gmail
 
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/r__dee__pak/
+      name: Instagram
+
 copyright: Copyright &copy; 2022 Ram Deepak
 
 markdown_extensions:
