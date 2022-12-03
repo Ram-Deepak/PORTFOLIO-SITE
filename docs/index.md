@@ -14,60 +14,61 @@ Looking for an entry-level position as a Software Engineer in a dynamic firm tha
 
 ## Education
 
-* `BE Computer Science and Engineering` - Sri Eshwar College of Engineering
-    * ``CGPA`` : 9.18
+??? abstract "Bachelors Degree 1"
+    * [`BE Computer Science and Engineering`](#) - Sri Eshwar College of Engineering
+    * [``CGPA``](#) : 9.18
     * Pre-final year
-    * ``Expected year of Graduation`` : 2024
-* `BS in Data Science and Applications` - Indian Institute of Technology Madras
-    * ``CGPA`` : 8.5
-    * Online Degree (Diploma level)
-    * ``Expected year of Graduation`` : 2025
+    * [``Expected year of Graduation``](#) : 2024
+
+??? abstract "Bachelors Degree 2"
+    * [`BS in Data Science and Applications`](#) - Indian Institute of Technology Madras
+    * [``CGPA``](#) : 8.5
+    * Diploma level
+    * [``Expected year of Graduation``](#) : 2025
+
+??? abstract "Schooling"
+    * [`N.A. Annaparaja Memorial Higher Secondary School`](#) - High School
+    * [`86.1%`](#) in HSC examination
+    * [`Chinmaya Vidyalaya P.A.C.R Matric Hr. Sec. School`](#) - Secondary Schooling
+    * [`91.6%`](#) in SSLC examination
+
 
 ## ACHIEVEMENTS
-### Xecutors Ramanujan 1st place
-* Secured first position in a maths quiz conducted by Department of Mathematics, Sri Eshwar College
 
-### Interizon Hackathon Semi Finalist
-* Semi finalist among 52 teams that participated in the hackathon conducted by Innovation Geeks
+!!! First-place success
+    * Xecutors Ramanujan
+    * Secured first position in a maths quiz conducted by Department of Mathematics, Sri Eshwar College
 
-### Foundational Certificate
-* Completed 8 courses from the foundational level of BS Degree programme from IIT Madras
-* Received foundational certificate with a CGPA of 8.6
-* Developed a website using google sites and uploaded my statistical analysis | Google sites
+!!! Semi-Finalist success
+    * Semi finalist among 52 teams that participated in the Interizon hackathon conducted by Innovation Geeks
 
-### Data Hacks 2nd place
-* Secured second position in Data Hacks hackathon conducted by IIT Madras Paradox Saavn 2022
+!!! Foundational-Certificate success
+    * Completed 8 courses from the foundational level of BS Degree programme from IIT Madras
+    * Received foundational certificate with a CGPA of 8.6
+    * Developed a website using google sites and uploaded my statistical analysis | Google sites
 
-### Mini project expo - 2nd place
-* Developed a chatbot for laptop called Natasha
+!!! Second-place success
+    * Secured second position in Data Hacks hackathon conducted by IIT Madras Paradox Saavn 2022
 
-`Leetcode rating` : Max-rating 1510 | 39.1% in the world 
+!!! Second-place success
+    * Secured second place in mini project expo of my college
+    * Developed a chatbot for laptop called Natasha
 
-`Codechef` : Max-rating 1354 | 1 start coder
-
-`Skillrack` : 709 bronze medals | Solved 1482 problems
-
+!!! Coding-profile success
+    * `Leetcode rating` : Max-rating 1510 | 39.1% in the world 
+    * `Codechef` : Max-rating 1354 | 1 start coder
+    * `Skillrack` : 709 bronze medals | Solved 1482 problems
 ## Projects
-* `Personal Assistant` (March 2022 - May 2022)
+
+!!! Personal-Assistant example
+    * March 2022 - May 2022
     * Built a chat bot for laptops
     * Used Python as the primary programming language
     * Used PyAudio, pyttsx3, speech-recognition modules
     * Used Google's text-to-speech engine
-* `Portail-etudiant` (Nov 2022 - Present)
+
+!!! Portail-etudiant example
+    * Nov 2022 - Present
     *  A website for students to request for on duties, permission to take leaves and main gate pass during class hours
     * E-format of od-forms, leave forms and main gate registers
     * Reduces the time taken for students to get permission from the faculties
-
-## Experience
-
-GROUP LEADER
-
-* Leader of 20+ peers
-* Conduct frequent meetings and address difficulties and issues
-
-
-MEMBER OF PASSIONATE PROGRAMMERS CLUB
-
-* Handled some sessions in the club
-* Learnt new technologies
-

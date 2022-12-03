@@ -32,3 +32,8 @@ extra:
       name: Gmail
 
 copyright: Copyright &copy; 2022 Ram Deepak
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
